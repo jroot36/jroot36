@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jroot36
 - 👀 I’m interested in code
-- 🌱 I’m currently learning everything Python 
-- 💞️ I’m looking to collaborate on rad stuff
-- 📫 How to reach me, reach me! 
+- 🌱 I’m currently learning everything Full Stack and Data Analysis
 
 <!---
 jroot36/jroot36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
