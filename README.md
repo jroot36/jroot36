@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jroot36
+- 👋 Hi, I’m @jstnrt
 - 👀 I’m interested in code
 - 🌱 I’m currently learning everything Full Stack and Data Analysis
 
